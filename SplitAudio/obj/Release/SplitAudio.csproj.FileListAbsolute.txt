@@ -1,0 +1,7 @@
+D:\Project\C#\SplitAudio\SplitAudio\bin\Release\SplitAudio.exe.config
+D:\Project\C#\SplitAudio\SplitAudio\bin\Release\SplitAudio.exe
+D:\Project\C#\SplitAudio\SplitAudio\bin\Release\SplitAudio.pdb
+D:\Project\C#\SplitAudio\SplitAudio\obj\Release\SplitAudio.csproj.AssemblyReference.cache
+D:\Project\C#\SplitAudio\SplitAudio\obj\Release\SplitAudio.csproj.CoreCompileInputs.cache
+D:\Project\C#\SplitAudio\SplitAudio\obj\Release\SplitAudio.exe
+D:\Project\C#\SplitAudio\SplitAudio\obj\Release\SplitAudio.pdb
